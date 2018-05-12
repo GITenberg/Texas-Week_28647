@@ -1,0 +1,30 @@
+_repo: Texas-Week_28647
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hernhuter, Albert
+    aliases:
+    - Ahearne, Bert
+    - Hernhunter, Albert
+    birthdate: 1934
+    gutenberg_agent_id: '33470'
+    url: http://www.gutenberg.org/2009/agents/33470
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy literature'
+- !lcc 'PS'
+title: Texas Week
+url: http://www.gutenberg.org/ebooks/28647
